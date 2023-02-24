@@ -1,3 +1,5 @@
+//This game has been created by @vaylonn in 2023
+
 public class Card {
     // private fields to store the suit and rank of the card
     private String suit;
